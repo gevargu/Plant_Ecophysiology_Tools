@@ -5,7 +5,7 @@ German Vargas G.
 Pressure volume curves:
 -----------------------
 
-These are measurements commonly done by plant ecophysiologists in order to obtain the turgor loss point (TLP, MPa) of leaves (a.k.a wilting point).
+These are measurements commonly done by plant ecophysiologists in order to obtain the turgor loss point (TLP, MPa) of leaves (a.k.a wilting point) among other parameters.
 
 This is a tutorial on how to analyze pressure volume curves data. For more details on how to perform pressure volume curves using a pressure chamber see: <http://prometheuswiki.org/tiki-index.php?page=Leaf+pressure-volume+curve+parameters>.
 
