@@ -1,4 +1,4 @@
-medicion,potencial_a,peso_a_(g),peso_seco,bolsa,area_foliar
+observation,water_potential,mass_(g),dry_mass,bag,leaf_area
 1,-0.887,5.2961,0.8345,3.4553,45
 2,-1.179,5.28727,0.8345,3.4553,45
 3,-1.604,5.2771,0.8345,3.4553,45
