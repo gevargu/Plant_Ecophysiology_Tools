@@ -1,4 +1,4 @@
-observation,water_potential,mass_(g),dry_mass,bag,leaf_area
+observation,water_potential_MPA,mass_g,dry_mass_g,bag_mass_g,leaf_area_cm2
 1,-0.887,5.2961,0.8345,3.4553,45
 2,-1.179,5.28727,0.8345,3.4553,45
 3,-1.604,5.2771,0.8345,3.4553,45
