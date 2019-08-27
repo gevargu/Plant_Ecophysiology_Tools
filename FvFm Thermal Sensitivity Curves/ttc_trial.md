@@ -23,6 +23,7 @@ Load the data
 
 ``` r
 trial <- read.csv(file = "data/Thermal_tolerance_sample.csv")
+
 head(trial,15)
 ```
 
@@ -32,7 +33,14 @@ Fiting the TT curves
 ### Just for one individual of a given species
 
 ``` r
-
+Thermal_output <- Thermal_tol(fv_fm = fv.fm_aft,
+                              temp = tmp,
+                              species = code,
+                              sp_levels = unique("SIDCAP"),
+                              id = ind,
+                              data = trial,
+                              print_graph = TRUE,
+                              graph_dir = "graphs/thermal_sp_id/")
 ```
 ### Leaf area provided
 
